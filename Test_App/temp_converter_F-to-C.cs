@@ -10,7 +10,7 @@ namespace temp_converter_F_to_C
     {
         static void Main(string[] args)
         {
-            int fer, cel;
+            int fer, cel, test;
 
             Console.WriteLine("Please type your fer value: ");
 
